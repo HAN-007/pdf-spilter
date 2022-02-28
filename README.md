@@ -9,3 +9,8 @@ Then, the recorded images are read with the cv2 library to be divided into 4 par
 The read pictures are divided into 4 parts and saved in a temporary file.
 They are read again from the saved temporary file to be converted to pdf and saved as pdf under the result folder.
 thanks for reading
+
+## Results :
+
+![image3](https://user-images.githubusercontent.com/52994504/155983568-6de3febb-e45b-4e6a-b078-82f5a9d7fd9e.png)
+
